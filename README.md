@@ -6,16 +6,16 @@
 
 <img src="images/image2.jpg" width="600"></img><br/>
 
-아래 이미지는 Stable Diffusion (VectorStudio)로 생성한 이미지임 (SVG 변환)
+아래 이미지는 Stable Diffusion (VectorStudio)로 생성한 이미지임 (SVG)
 <img src="images/tiger.png" width="400" ></img><br/>
 
-생성한 SVG 이미지를 플로팅 로봇으로 출력하는 모습임
+생성한 SVG 이미지를 gcode로 변환하여 플로팅 로봇으로 출력하는 모습임
 <img src="images/image1.jpg" width="600"></img><br/>
 
-2개의 스테핑 모터와 1개의 서버 모터로 동작함 (Core XY방식으로 구현)
+2개의 스테핑 모터와 1개의 서보 모터로 동작함 (Core XY방식으로 구현)
 <img src="images/image3.jpg" width="600"></img><br/>
 
-아두이노 우노 보드와 CNC 쉴드를 모터 등의 제어에 이용됨
+아두이노 우노 보드와 CNC 쉴드를 스텝모터와 서버모터의 제어에 이용됨
 <img src="images/image5.jpg" width="600"></img><br/>
 
 
