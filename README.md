@@ -21,13 +21,13 @@
 
 
 ## XY 플로터 부품 구매 및 조립 방법
-페이지 준비중...
+페이지 링크: <https://nextlabai.notion.site/XY-ba66cf6c0fbb4d9caa27c4d9d4163dda?pvs=4>
 
 ## SVG 파일로부터 gcode 생성방법
-페이지 준비중...
+페이지 링크: <https://nextlabai.notion.site/SVG-gocde-a71325c466274d2d87ee431797333c9b?pvs=4>
 
 ## XY 플로터 동작 방법 및 gcode로부터 출력 방법
-페이지 준비중...
+페이지 링크: <https://nextlabai.notion.site/XY-gcode-a891c4885d7d43138539b22fc646ed26?pvs=4>
 
 ## Stable Diffusion 설치 및 SVG 생성 방법
-페이지 준비중...
+페이지 링크: <https://nextlabai.notion.site/Stable-Diffusion-SVG-09d8802633c440d7ba6cd73fb5317b3d?pvs=4>
